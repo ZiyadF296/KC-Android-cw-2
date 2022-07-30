@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        int height = 165;
+
+        if (height > 160) {
+           System.out.println("You can get in!");
+        } else {
+           System.out.println("You can\'t get in. :(");
+        }
+    }
+}
